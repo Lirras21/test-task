@@ -1,7 +1,8 @@
 {
   "name": "test-task",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "homepage": "https://Lirras21.github.io/test-task",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
